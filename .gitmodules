@@ -1,0 +1,3 @@
+[submodule "script.module.openscrapers"]
+	path = script.module.openscrapers
+	url = https://github.com/a4k-openproject/script.module.openscrapers
